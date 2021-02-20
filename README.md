@@ -1,7 +1,7 @@
 # Dog Breed Classifier Project for Udacity Machine Learning Engineer Nanodedree 
 
 ## Project overview
-This is dog breed classifier project for Udacity's Machine Learning Engineer Nanodegree program. In this project, I build and train **Convolutional Neural Network (CNN)** as image classifier in **Jupiter Notebook** using **Pytorch**. This code must be able to:
+This is dog breed classifier project for Udacity's Machine Learning Engineer Nanodegree program. In this project, I build and train **Convolutional Neural Network (CNN)** as image classifier in **Jupiter Notebook** using **PyTorch**. This code must be able to:
 
 * Detect whether an image contains a dog or human, and distinguish between the two.
 * If given an image of a dog, the model predicts its breed with at least 60% accuracy. Random chance is less than 1% since there are 133 dog breeds (classes) in the dataset.
